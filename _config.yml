@@ -17,7 +17,7 @@ remote_theme: openworldgameio/jekyll-theme
 url    : "https://openworldtech.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Jekyll Theme
+title      : Open World Tech
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 
