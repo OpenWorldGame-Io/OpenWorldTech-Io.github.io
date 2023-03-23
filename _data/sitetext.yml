@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Cloud-native and open-source solutions"
         desc: "Dedicated to delivering innovative and cost-effective solutions for modern-day enterprises."
-        icon: fas fa-duotone fa-clouds #find more at https://fontawesome.com/icons
+        icon: fas cloud #find more at https://fontawesome.com/icons
       - title: "Serverless, containerization and infrastructure automation"
         desc: "open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
         icon: fas fa-duotone fa-server
