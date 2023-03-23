@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-duotone fa-server
       - title: "Easy Observability and Incident Management"
         desc: "Aggregating all metrics and logs available via a 'single pane of glass'. This approach empowers their customers with a unified view of the entire infrastructure, making it easier to detect, diagnose, and resolve issues instantly."
-        icon: fas fa-chart
+        icon: fas fa-chart-area
       - title: "Online Games, Environments and Metaverse"
         desc: "Aggregating"
         icon: fas fa-laptop
