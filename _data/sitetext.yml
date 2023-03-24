@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Aggregating all metrics and logs available via a 'single pane of glass'. This approach empowers their customers with a unified view of the entire infrastructure, making it easier to detect, diagnose, and resolve issues instantly."
         icon: fas fa-chart-area
       - title: "Online Games, Environments and Metaverse"
-        desc: "Aggregating"
+        desc: "Leveraging industry standard Tech and Tools to develop and deploy dynamic and engaging online games, social virtual spaces, digitial twins, and 'metaverse' collaberations."
         icon: fas fa-laptop
 
   portfolio:
