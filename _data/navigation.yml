@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Theme Source"
-      url: https://github.com/openworldgameio/jekyll-theme
+      url: https://github.com/OpenWorldGame-Io/openworld-jekyll-theme
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -31,7 +31,7 @@ es: &DEFAULT_ES
     - title: "Servicios"
       section: servicios
     - title: "Fuente de la plantilla"
-      url: https://github.com/openworldgameio/jekyll-theme
+      url: https://github.com/OpenWorldGame-Io/openworld-jekyll-theme
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -44,4 +44,4 @@ de: &DEFAULT_DE
     - title: "Leistungen"
       section: Leistungen
     - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/OpenWorldGame-Io/openworld-jekyll-theme
