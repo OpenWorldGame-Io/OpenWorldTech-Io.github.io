@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-theme
-remote_theme: openworldgameio/jekyll-theme
+remote_theme: OpenWorldGame-Io/openworld-jekyll-theme
 
 url    : "https://openworldtech.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
