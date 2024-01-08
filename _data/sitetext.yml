@@ -21,18 +21,21 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Online Games, Environments and Metaverse"
-        desc: "Leveraging industry standard Tech and Tools to develop and deploy dynamic and engaging online games, social virtual spaces, digitial twins, and 'metaverse' collaberations."
+      - title: "Online Gaming and Virtual Worlds"
+        desc: "Develop and deploy dynamic online games, social virtual spaces, digital twins, and collaborative metaverse experiences using industry-standard technology and tools."
         icon: fas fa-laptop
-      - title: "Cloud-native and open-source solutions"
-        desc: "Dedicated to delivering innovative and cost-effective solutions for modern-day enterprises."
+      - title: "Cloud-Native Solutions"
+        desc: "Providing innovative and cost-effective solutions tailored to modern enterprises, utilizing cloud-native and open-source technologies."
         icon: fas fa-duotone fa-cloud #find more at https://fontawesome.com/icons
-      - title: "Serverless, containerization and infrastructure automation"
-        desc: "open-source software running on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation"
+      - title: "Serverless Computing and Infrastructure Automation"
+        desc: "Harness the power of open-source software on public cloud infrastructure, leveraging serverless computing, containerization, and infrastructure automation."
         icon: fas fa-duotone fa-server
-      - title: "Easy Observability and Incident Management"
-        desc: "Aggregating all metrics and logs available via a 'single pane of glass'. This approach empowers their customers with a unified view of the entire infrastructure, making it easier to detect, diagnose, and resolve issues instantly."
+      - title: "Unified Observability and Incident Management"
+        desc: "Streamline your operations with a single-pane-of-glass approach, aggregating all metrics and logs for a unified view of your infrastructure. Detect, diagnose, and resolve issues instantly."
         icon: fas fa-chart-area
+      - title: "AI Integration for Enhanced User Experiences"
+        desc: "Seamlessly integrate AI and LLM APIs to enhance user experiences across various domains, including in-game NPCs/assistants, Discord and other chat bots, and more. Unlock the potential of advanced AI capabilities to elevate interactions and engagement."
+        icon: fas fa-robot
 
 
   portfolio:
