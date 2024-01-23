@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         desc: "Streamline your operations with a single-pane-of-glass approach, aggregating all metrics and logs for a unified view of your infrastructure. Detect, diagnose, and resolve issues instantly."
         icon: fas fa-chart-area
       - title: "AI Integration for Enhanced User Experiences"
-        desc: "Seamlessly integrate AI and LLM APIs to enhance user experiences across various domains, including in-game NPCs/assistants, Discord and other chat bots, and more. Unlock the potential of advanced AI capabilities to elevate interactions and engagement."
+        desc: "Seamlessly integrate AI and LLM APIs to enhance user experiences across various domains. Including in-game NPCs/assistants, Discord and other chat bots, custom Pre-Training, RAG solutions, and more. Unlock the potential of advanced AI capabilities to elevate interactions and engagement with your Users."
         icon: fas fa-robot
 
 
