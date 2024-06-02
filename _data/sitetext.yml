@@ -33,11 +33,13 @@ en: &DEFAULT_EN
       - title: "Unified Observability and Incident Management"
         desc: "Streamline your operations with a single-pane-of-glass approach, aggregating all metrics and logs for a unified view of your infrastructure. Detect, diagnose, and resolve issues instantly."
         icon: fas fa-chart-area
-      - title: "AI Integration for Enhanced User Experiences"
+      - title: "AI/LLM Integration for Enhanced User Experiences"
         desc: "Seamlessly integrate AI and LLM APIs to enhance user experiences across various domains. Including in-game NPCs/assistants, Discord and other chat bots, custom Pre-Training, RAG solutions, and more. Unlock the potential of advanced AI capabilities to elevate interactions and engagement with your Users."
         icon: fas fa-robot
-
-
+     - title: "AI/LLM Safety Research and Redteaming"
+        desc: "Ensuring AI-powered solutions are robust, reliable, and ethical. Specializing in vulnerability assessment, red teaming, and bias mitigation for AI/LLM models.  Proactively identify and address potential weaknesses, rigorously tests resilience against attacks, and develops strategies to enhance safety and fairness. Partner with us to safeguard your AI innovations and build trust with your users."
+        icon: fas fa-robot
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
