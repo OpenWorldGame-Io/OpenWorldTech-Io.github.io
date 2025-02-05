@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Theme Source"
-      url: https://github.com/OpenWorldGame-Io/openworld-jekyll-theme
 en-US:
   <<: *DEFAULT_EN
 en-CA:
