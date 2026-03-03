@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Open Source, Open Tech
+    title: Open Intelligence, Open Tech
     text: Open World
     button: Tell Me More
     buttonlink: "#services"
